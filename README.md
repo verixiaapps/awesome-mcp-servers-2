@@ -552,6 +552,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
+- [HostDeFi](https://hostdefi.com/api/v1/mcp) - Hosted Streamable HTTP MCP server: free `scan_token` tool returns A+–F token-safety grades across Solana and 8 EVM chains; paid tools settle per call in USDC via x402.
 
 ## Clients
 
